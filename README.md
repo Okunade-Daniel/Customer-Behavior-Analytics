@@ -15,7 +15,7 @@ Upon completing this project, actionable insights and recommendations were provi
 
 The link to the power bi report is: https://app.powerbi.com/groups/me/reports/accb7ae3-0ae2-4c6b-bd06-9e6578fadd9c?ctid=a7b15ebf-f361-4934-86c8-43f76c182d96&pbi_source=linkShare
 
-![Overview](C:/Users/DELL/Desktop/power bi report/overview.png)
+!['Overview']('C:/Users/DELL/Desktop/power bi report/overview.png')
 ![mainstream](C:/Users/DELL/Desktop/power bi report/mainstream customers.png)
 ![budget](C:/Users/DELL/Desktop/power bi report/budget customers.png)
 ![premium](C:/Users/DELL/Desktop/power bi report/premium customers.png)
