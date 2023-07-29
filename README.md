@@ -13,7 +13,7 @@ Furthermore, statistical analysis was conducted to evaluate if the the results f
 
 Upon completing this project, actionable insights and recommendations were provided for the company to improve their sales strategy and customer satisfaction and loyalty. I believe that these insights will enable the company to remain competitive in the industry and achieve its long-term growth objectives.
 
-The link to the power bi report is: https://app.powerbi.com/groups/me/reports/accb7ae3-0ae2-4c6b-bd06-9e6578fadd9c?ctid=a7b15ebf-f361-4934-86c8-43f76c182d96&pbi_source=linkShare
+You can interact with the power bi report at: https://app.powerbi.com/groups/me/reports/accb7ae3-0ae2-4c6b-bd06-9e6578fadd9c?ctid=a7b15ebf-f361-4934-86c8-43f76c182d96&pbi_source=linkShare
 
 ![Overview](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/blob/main/power%20bi%20report/overview.png)
 ![mainstream](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/blob/main/power%20bi%20report/mainstream%20customers.png)
