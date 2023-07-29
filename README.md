@@ -15,10 +15,10 @@ Upon completing this project, actionable insights and recommendations were provi
 
 The link to the power bi report is: https://app.powerbi.com/groups/me/reports/accb7ae3-0ae2-4c6b-bd06-9e6578fadd9c?ctid=a7b15ebf-f361-4934-86c8-43f76c182d96&pbi_source=linkShare
 
-![Overview](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/power bi report/overview.png)
-![mainstream](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/power bi report/mainstream customers.png)
+![Overview](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/blob/main/power%20bi%20report/overview.png)
+![mainstream](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/blob/main/power%20bi%20report/mainstream%20customers.png)
 ![budget](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/blob/main/power%20bi%20report/budget%20customers.png)
-![premium](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/power bi report/premium customers.png)
+![premium](https://github.com/Okunade-Daniel/Customer-Behavior-Analytics/blob/main/power%20bi%20report/premium%20customers.png)
 
 # Insights
 From the analysis conducted, the following are the insights generated:
