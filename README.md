@@ -1,4 +1,4 @@
-# Customer-Behavior-Analytics
+# Customer Behavior Analytics
 
 # Introduction
 In today's highly competitive retail landscape, understanding customer behavior and product preferences are critical for businesses to thrive and remain profitable. For companies in the Fast-Moving Consumer Goods (FMCG) sector, gaining insight into customer purchasing behavior is essential to developing effective strategies that drive sales, revenue growth, and customer satisfaction.
