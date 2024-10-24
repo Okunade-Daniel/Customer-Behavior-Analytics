@@ -1,4 +1,4 @@
-# Cleaning customer data
+# Cleaning the customer data
 # Check the shape of the data
 display(customer_df.shape)
 
