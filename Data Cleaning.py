@@ -77,7 +77,7 @@ print(f"Unique Values in Product Quantity columns are: {transaction_df['product_
 
 print(f"Unique Values in Total Sales columns are: {transaction_df['total_sales'].unique()}")
 
-# Using Tukey's fences, identify outliers in the columns
+# Using Tukey's fences, identify outliers in the columns by writing a function
 def find_outliers(df,cols):
     for col in cols:
         # Calculate the quartiles
@@ -96,14 +96,16 @@ def find_outliers(df,cols):
 find_outliers(transaction_df, ['product_quantity','total_sales'])
 
 # The outliers in the product quantity column are about 11 percent of the data, dropping them could cause us to loose
-# meaningful data, however, Seeing that d % of outliers in d total sales column is minute we could filter them out instead
+# meaningful data, however, Seeing that the % of outliers in the total sales column is minute, we could filter them out instead
 
+# Visualize Total Sales with Outliers
 sns.histplot(x=transaction_df['total_sales'], bins = 10)
 plt.title('Distibution of Total sales with Outliers')
 plt.show()
 
 transaction_df = transaction_df[transaction_df['total_sales']<21]
 
+# Visualize Total sales without Outliers
 sns.histplot(x=transaction_df['total_sales'], bins = 10)
 plt.title('Distibution of Total sales without Outliers')
 plt.show()
@@ -115,8 +117,8 @@ new_df = transaction_df.merge(customer_df,on='loyalty_card_no')
 # Check the merged data
 new_df.isna().sum()
 
-# Save the data
-new_df.to_csv(r'C:\Users\DELL\Desktop\DASL 5 folder\dasl_final.csv')
+# Save the data to local device
+new_df.to_csv(r'...\dasl_final.csv')
 
 # View the newly merged dataframe 
 display(new_df.head())
